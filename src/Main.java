@@ -1,5 +1,7 @@
 public class Main {
     public static void main(String[] args) {
+        //  Задача 1
+        System.out.println("Задача 1");
         double dog = 3;
         System.out.println(dog);
         dog = dog + 4;
